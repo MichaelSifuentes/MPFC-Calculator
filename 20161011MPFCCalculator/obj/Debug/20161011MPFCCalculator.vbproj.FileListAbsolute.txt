@@ -1,0 +1,21 @@
+c:\users\michael\documents\visual studio 2012\Projects\20161011MPFCCalculator\20161011MPFCCalculator\bin\Debug\20161011MPFCCalculator.exe.config
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\20161011MPFCCalculator\20161011MPFCCalculator\bin\Debug\20161011MPFCCalculator.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\20161011MPFCCalculator\20161011MPFCCalculator\bin\Debug\20161011MPFCCalculator.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\20161011MPFCCalculator\20161011MPFCCalculator\bin\Debug\20161011MPFCCalculator.xml
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\_20161011MPFCCalculator.FrmMPFC.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\_20161011MPFCCalculator.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\20161011MPFCCalculator.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\20161011MPFCCalculator.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\20161011MPFCCalculator.xml
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\20161011MPFCCalculator.pdb
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\bin\Debug\20161011MPFCCalculator.exe.config
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\20161011MPFCCalculator.exe
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\20161011MPFCCalculator.xml
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\20161011MPFCCalculator.pdb
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\_20161011MPFCCalculator.FrmMPFC.resources
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\_20161011MPFCCalculator.Resources.resources
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\20161011MPFCCalculator.vbproj.GenerateResource.Cache
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\bin\Debug\20161011MPFCCalculator.exe
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\bin\Debug\20161011MPFCCalculator.pdb
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\bin\Debug\20161011MPFCCalculator.xml
+C:\Users\Michael\Dropbox\20161011MPFCCalculator\20161011MPFCCalculator\obj\Debug\_20161011MPFCCalculator.frmSummary.resources
